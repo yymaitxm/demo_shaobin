@@ -6,7 +6,6 @@ import json
 import os
 from turtle import left
 
-""" Vanilla implementation of the standard Kalman filter algorithm"""
 import numpy as np
 from typing import List, Tuple
 
